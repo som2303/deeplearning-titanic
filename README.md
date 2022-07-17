@@ -14,7 +14,7 @@
 *   Parents/Cildren Aboard : 함께 탑승한 부모, 자식의 수
 *   Fare : 탑승료
 ### 데이터 예시
-| | Survived | Pclass | Sex | Age | Siblings/Spouses Aboard | Parents/Children Aboard | Fare |
+| | Survived | Pclass | Name | Sex | Age | Siblings/Spouses Aboard | Parents/Children Aboard | Fare |
 ---|---|---|---|---|---|---|---|---|
 0 | 0 | 3 | Mr. Owen Harris Braund | male | 22.0 | 1 | 0 | 7.2500 |
 1 | 1 | 1 | Mrs. John Bradley (Florence Briggs Thayer) Cum... | female | 38.0 | 1 | 0 | 71.2833 |
